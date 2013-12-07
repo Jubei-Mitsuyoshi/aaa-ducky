@@ -1,0 +1,11 @@
+simple-ducky (1.1.1+git20131204-aaakali) kali; urgency=low
+
+  * Initial release
+  * changed a few lines in update, renamed update and simple-ducky
+  * created a makefile, other stuff is in the patches
+  * 1.1.1 / 2013-06-22 
+  * updated readme to clone recursively
+  * Moved dbd to a submodule and set to autoinitialize
+  * Simple-Ducky Payload Generator v1.1.1
+
+ -- Jubei Mitsuyoshi <Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>>  Thu, 21 Nov 2013 21:51:37 +0100

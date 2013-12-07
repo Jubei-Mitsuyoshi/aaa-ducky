@@ -1,0 +1,19 @@
+Source: simple-ducky
+Section: net
+Priority: optional
+Maintainer: Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/gitbrew/simple-ducky
+
+
+Package: simple-ducky
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, pure-ftpd, file-roller, dfu-programmer, apache2, burpsuite, netcat, p7zip-full, nmap, mingw32, john, metasploit, social-engineer-toolkit, john
+Description: The simple-ducky is designed to quickly create reliable payloads
+ and launch listener's.Simple-Ducky currently uses version 2.6 of the duck encoder.
+ With the simple-ducky in a matter of seconds you can;
+ - Create your evil executable (its automatically placed in your web directory)
+ - Create your inject.bin
+ - And launch a listener (meterpreter or netcat).
+

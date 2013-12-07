@@ -1,0 +1,8 @@
+#!/bin/bash
+#ducky-update - update simple-ducky and all submodules
+
+
+rm -rf /usr/share/simple-ducky
+git clone --recursive https://github.com/gitbrew/simple-ducky.git /usr/share/simple-ducky
+mv /usr/share/simple-ducky/simple-ducky.sh /usr/bin/simple-ducky
+ln -sf /usr/share/simple-ducky/misc/dbd-conf/* /usr/share/simple-ducky/misc/dbd/conf/
