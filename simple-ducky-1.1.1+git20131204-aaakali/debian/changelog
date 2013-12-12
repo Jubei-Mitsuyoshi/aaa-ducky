@@ -8,4 +8,4 @@ simple-ducky (1.1.1+git20131204-aaakali) kali; urgency=low
   * Moved dbd to a submodule and set to autoinitialize
   * Simple-Ducky Payload Generator v1.1.1
 
- -- Jubei Mitsuyoshi Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>  Thu, 21 Nov 2013 21:51:37 +0100
+ -- Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>  Thu, 21 Nov 2013 21:51:37 +0100

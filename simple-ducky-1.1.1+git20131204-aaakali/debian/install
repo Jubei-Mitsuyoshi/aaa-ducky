@@ -1,1 +1,1 @@
-debian/*.* /usr/share/simple-ducky
+debian/simple-ducky.desktop /usr/share/applications

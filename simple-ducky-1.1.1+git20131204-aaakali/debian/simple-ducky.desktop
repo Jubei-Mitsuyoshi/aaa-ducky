@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-wireless-tools;
+Categories=07-05-web-sniffers;
 X-Kali-Package=simple-ducky
